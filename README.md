@@ -1,6 +1,7 @@
 ![MasterHead](https://media-hosting.imagekit.io/a195cf92b45c409e/github-header-image.png?Expires=1838647430&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hSE5-OLVYw3gmg8tpqIKxoZPxnyCVxjWa5LYkZwv4Cr~vnOf8YeEnTvud0Wp0HUEMPREBLnEQpfBQbLqSA0oohHJwdP8HscfTbnrJl-P1VsWRa-8XPv31thsY4Mx9~JkP3kD3tnottFRFGdFEC9y8hiSuHKC-U4U2C7REpnoO1cC1VTWiCLBYAdKhWddkld4rQKa5WQt~TmwPXoPcaKVhJZFUnNsquyHD2ptI9QLlaHHH~oTDmIbfQ~wXpsWmixnDfPB1MNrXMEnzPPInAhpkAhs2eybUiWX~6ko-mTet-gkN2RByU5RAYB8pWsNK-YG6aDGq1TfwgbvdMjd1xfQHw__)
 <h1 align="center">Hi 👋, I'm Keshav Goyal</h1>
 <h3 align="center">Creating robust web applications 🌐 and exploring the power of the cloud ☁️</h3>
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
 - 💬 Ask me about **🌐 HTML/CSS · ⚛️ React · 🎨 Tailwind CSS · 🟨 JavaScript 🟩 Node.js · 🚀 Express · 🔥 Firebase · ☁️ Cloud Computing**
 
